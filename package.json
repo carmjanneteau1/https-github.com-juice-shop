@@ -162,7 +162,8 @@
     "unzipper": "0.9.15",
     "winston": "^3.3.3",
     "yaml-schema-validator": "^1.2.2",
-    "z85": "^0.0.2"
+    "z85": "^0.0.2",
+    "lodash": "4.17.20"
   },
   "devDependencies": {
     "chai": "^4.2.0",
